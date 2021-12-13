@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+:root {
+	--background-main: rgb(0, 0, 0);
+	--logo-font-color: rgba(48, 48, 48, 1);
+	--border-menu: solid 1px #E7E8EA;
+}
+
+html {
+  font-size: 70.5%; /* 16px * 62.5 = 10px = 1rem*/
+}
+
+body {
+	height: 100vh;
+	font: 1.6rem 'Lato', sans-serif;
+	margin: 0;
+	font-weight: 500;
+	position: relative;
+	z-index: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+	background: --background-main;
+}
+
+a {
+  text-decoration: none;
+}

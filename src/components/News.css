@@ -1,0 +1,7 @@
+.news-container {
+  margin-top: 50px;
+	grid-area: newscontainer;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}

@@ -1,0 +1,14 @@
+.new-container {
+	max-width: 90rem;
+  margin: 4rem auto;
+  width: 700px;
+  margin-left: 300px;
+}
+.text{
+  margin-left: 275px;
+  width:700px;
+  padding: 2.5rem;
+  font-family: segoe ui;
+  font-size: 1.7rem;
+  color: rgba(49, 49, 49, 1);
+}

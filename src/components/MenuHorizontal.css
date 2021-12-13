@@ -1,0 +1,7 @@
+.menu-horizontal-container {
+	grid-area: menuhorizontal;
+	border-bottom: var(--border-menu);
+  background-color: black;
+  height: 100px;
+  width: 100%;
+}

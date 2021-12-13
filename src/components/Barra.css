@@ -1,0 +1,15 @@
+.barra-ultimas-noticias{
+  text-align: center;
+  margin-top: -193rem;
+  background-color: #F4F4F4;
+  height: 2.4rem;
+  width: 100%;
+  grid-area: barracontainer;
+ 
+}
+
+.title66{
+  color: rgba(150, 150, 150, 1);
+  
+}
+
